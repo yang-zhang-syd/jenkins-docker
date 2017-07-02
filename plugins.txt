@@ -1,0 +1,17 @@
+github:1.27.0
+credentials:2.1.14
+display-url-api:2.0
+git:3.3.1
+github-api:1.85.1
+plain-credentials:1.4
+scm-api:2.1.1
+token-macro:2.1
+git-client:2.4.6
+mailer:1.20
+matrix-project:1.11
+ssh-credentials:1.13
+jackson2-api:2.7.3
+workflow-scm-step:1.14.2
+structs:1.6
+junit:1.20
+script-security:1.13
